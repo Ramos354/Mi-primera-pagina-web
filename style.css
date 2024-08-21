@@ -1,0 +1,13 @@
+
+#nosotros{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#nosotros iframe{
+    padding: 10px;
+    margin: 10px;
+}
+
